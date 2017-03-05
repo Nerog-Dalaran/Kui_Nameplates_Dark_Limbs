@@ -5,4 +5,4 @@
 
 Requiert l'addon KuiNameplates pour fonctionner: https://mods.curse.com/addons/wow/kuinameplates
 
-Téléchargez et décompressez le ficher "Kui_Nameplates_Dark_Limbs.zip" dans le répertoire "C:\Program Files (x86)\World of Warcraft\Interface\AddOns".
+Téléchargez et décompressez le fichier "Kui_Nameplates_Dark_Limbs.zip" dans le répertoire "C:\Program Files (x86)\World of Warcraft\Interface\AddOns".
